@@ -1,3 +1,3 @@
 <script>
-alert("Hello");
+alert("Hello, No It really funny");
 </script>
